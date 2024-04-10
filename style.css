@@ -2,10 +2,6 @@
     margin: 0;
    
 }
-header{
-    background-color: gray; 
-    
-}
 .navbar{
   display: flex;
   justify-content: space-between;
@@ -26,7 +22,7 @@ header{
     padding: 10px; 
     border-radius: 10px;  
     margin-right: 40px;
-    color:#ddd;
+    color:#000;
     font-size: 23px;
   }
 
